@@ -53,4 +53,4 @@ while True:
                     send_data(output)
     except Exception as e:
         time.sleep(5)
-#coded by machine1337
+
